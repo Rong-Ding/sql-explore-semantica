@@ -11,7 +11,7 @@ An ongoing data analytics project exploring **user drop-off behaviour in ecommer
 - Conversion Rate Insights:
   - Desktop and mobile devices dominate traffic, while tablets show lower engagement and conversion.
   - Most drop-offs (~82%) occur immediately after the product view stage.
-![Funnel Visualization](funnel_by_device.png)
+![Funnel Visualization](user_funnel_by_device.png)
 - Semantic Layer Contribution:
   - Created a reusable interface (`ExploreBy` class) to query funnel metrics by any dimension (e.g., device.category).
   - Mirrors LookML logic in Python to promote consistency and scalability.

@@ -16,5 +16,7 @@ An ongoing data analytics project exploring **user drop-off behaviour in ecommer
   - Mirrors LookML logic in Python to promote consistency and scalability.
  
 ## How to Use / Reproduce
-
+- Requirements: Google Colab, Google Cloud SDK (for authentication)
+- To run the code for funnel drop-off analysis, run _SQL+Python_for_GA4_BigQuery_WIP.ipynb_ in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rong-Ding/sql-explore-semantica/blob/master/SQL+Python_for_GA4_BigQuery_WIP.ipynb)
+- 
 ## Future Work
